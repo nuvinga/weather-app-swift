@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C4A950F9-C7E0-4BBB-BE4C-F58E63A168AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FED2F00-F378-475B-B1EC-1762B918C78F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CourseWork2Starter/AirModel/AirModelData.swift"
+            startingColumnNumber = "23"
+            endingColumnNumber = "23"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadAirPollution(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
